@@ -1,5 +1,6 @@
 # Dynamic-ARIMA
 
+![Visually, everything looks like this](https://github.com/quant12345/Dynamic-ARIMA/blob/main/arima.gif)
 Dynamic ARIMA plot in a sliding window.
 
 In this code, data obtained from yfinance is used to display on the chart.
@@ -17,7 +18,7 @@ The following libraries are required to work:
 
 PyQt5, PyQtChart, statsmodels, yfinance, numpy
 
-![Visually, everything looks like this](https://github.com/quant12345/Dynamic-ARIMA/blob/main/arima.gif)
+
 
 
 
