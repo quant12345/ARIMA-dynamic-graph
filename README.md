@@ -1,4 +1,4 @@
-# ARIMA dynamic graph. ARIMA for financial markets and other data
+# ARIMA dynamic graph, for financial markets and other data
 
 Dynamic ARIMA plot in a sliding window.
 
