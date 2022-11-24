@@ -1,4 +1,4 @@
-# Dynamic-ARIMA
+# ARIMA dynamic graph.
 
 Dynamic ARIMA plot in a sliding window.
 
