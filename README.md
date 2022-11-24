@@ -17,4 +17,7 @@ The following libraries are required to work:
 
 PyQt5, PyQtChart, statsmodels, yfinance, numpy
 
+![Visually, everything looks like this](https://github.com/quant12345/Dynamic-ARIMA/blob/main/arima.gif)
+
+
 
