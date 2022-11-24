@@ -17,6 +17,8 @@ The following libraries are required to work:
 
 PyQt5, PyQtChart, statsmodels, yfinance, numpy
 
+P.S. An additional series(dt_line_serie) with datetime indexes has been added so that there are no gaps on the chart when there is no trading.
+
 ![Visually, everything looks like this](https://github.com/quant12345/Dynamic-ARIMA/blob/main/arima.gif)
 
 
