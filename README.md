@@ -22,7 +22,5 @@ P.S. An additional series(dt_line_serie) with datetime indexes has been added so
 ![Visually, everything looks like this](https://github.com/quant12345/Dynamic-ARIMA/blob/main/arima.gif)
 
 
-<a href="https://stackexchange.com/users/16585571"><img src="https://stackexchange.com/users/flair/16585571.png" width="208" height="58" alt="profile for inquirer on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for inquirer on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-
 
 
